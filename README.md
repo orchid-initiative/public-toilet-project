@@ -13,3 +13,5 @@ Motivation: Seeing people’s faces when they don’t have access - makes her sa
 - https://americanrestroom.org/about-us/
 - https://www.phlush.org/
 - The book “The Sum of Us” talks about how we used to have really cool public things - pools, parks, libraries, etc.  But we keep taking them away. - Rhonda
+- "Restroom Access Act" https://www.crohnscolitisfoundation.org/patientsandcaregivers/get-involved/be-an-advocate/restroom-access
+- "We Can't Wait" app (Play: https://play.google.com/store/apps/details?id=com.markedprivate.cantwait&hl=en_US&gl=US) (iOS: https://apps.apple.com/us/app/we-cant-wait/id1555000039)
